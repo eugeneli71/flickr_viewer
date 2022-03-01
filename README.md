@@ -1,5 +1,5 @@
 # flickr-viewer
-Make sure you have Node.js installed on you machine.
+Make sure you have Node.js installed on your machine.
 ## Back-End Setup
 ```sh
 cd backend
